@@ -3,4 +3,4 @@ Running Jenkins on a Raspberry Pi - Python code
 
 This is an example application built using FastAPI.
 
-This is a test. This tests the commit status to add to github.
+This is a test. This tests the commit status to add to github and check it can be picked up from JCasC.
